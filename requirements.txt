@@ -4,5 +4,4 @@ sqlalchemy
 pytest
 httpx
 python-dotenv
-psycopg2-binary
 asyncpg
